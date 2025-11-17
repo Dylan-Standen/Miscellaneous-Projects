@@ -1,6 +1,6 @@
 # Compound Interest (and Physics)
 
-Okay, so this repo is mainly investigating the mathematical formulation of compound interest and it's (mathematical) relation to topics in physics. Note that this was a side project for fun. If you come across any mathematical or any (likely) grammatical erros, please do feel free to inform me.
+This repo investigates the mathematical formulation of compound interest and its relation to topics in physics. It started as a side project for fun. If you spot any mathematical mistakes or grammatical errors, please let me know.
 
 ## Compound Interest
 
